@@ -1,0 +1,3 @@
+[submodule "src/vendor/octo_shepherd"]
+	path = src/vendor/octo_shepherd
+	url = git@github.com:samkeen/octo-shepherd.git
